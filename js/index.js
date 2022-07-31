@@ -33,7 +33,6 @@ window.onload = () => {
 
   const startbutton = document.getElementById('start-button');
   const resetbutton = document.getElementById('restart-button');
-  const pausebutton = document.getElementById('pause-button');
   const endbutton = document.getElementById('end-button');
   const gameArea = document.getElementById('game-board');
 
